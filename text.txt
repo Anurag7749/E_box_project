@@ -1,1 +1,2 @@
 Hello everyone welcome to my website.
+Day 1 of learning about Github how to make repository and inside of repository how to create file as well as edit it.
